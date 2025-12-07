@@ -1,0 +1,3 @@
+To enable efficient object detection on embedded systems and constrained hardware (Edge AI), I conducted a study optimizing the YOLOv8 Nano model. 
+By migrating the model from the standard PyTorch format to the TensorFlow Lite (TFLite) architecture and applying Post-Training Quantization (INT8) technique, I reduced the model size by 50% (from approximately 6 MB to 3 MB). 
+By achieving a stable inference speed of ~5 FPS (200ms latency) in CPU benchmark tests simulated in the Google Colab environment, I demonstrated my engineering expertise in integrating deep learning models into mobile and edge devices.
